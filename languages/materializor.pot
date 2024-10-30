@@ -1,0 +1,812 @@
+# Copyright (C) 2021 RunCoders
+# This file is distributed under the same license as the Materializor plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Materializor 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/materializor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-26T21:56:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: materializor\n"
+
+#. Plugin Name of the plugin
+#: includes/admin/page-settings.php:40
+#: includes/autoload/Admin.php:48
+#: includes/autoload/Admin.php:49
+#: includes/autoload/Plugin.php:197
+msgid "Materializor"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://runcoders.net/materializor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds Material Design widgets and icons to your Elementor website"
+msgstr ""
+
+#. Author of the plugin
+msgid "RunCoders"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://runcoders.net"
+msgstr ""
+
+#: includes/admin/page-settings.php:8
+msgid "Sorry, you are not allowed to manage options for this site."
+msgstr ""
+
+#: includes/admin/page-settings.php:45
+msgid "Theme"
+msgstr ""
+
+#: includes/admin/page-settings.php:50
+msgid "Main Color"
+msgstr ""
+
+#: includes/admin/page-settings.php:61
+msgid "Link Color"
+msgstr ""
+
+#: includes/admin/page-settings.php:73
+msgid "Icons"
+msgstr ""
+
+#: includes/admin/page-settings.php:78
+msgid "Material Design Icons"
+msgstr ""
+
+#: includes/admin/page-settings.php:84
+msgid "Add to Elementor icon library"
+msgstr ""
+
+#: includes/admin/page-settings.php:92
+msgid "Fonts"
+msgstr ""
+
+#: includes/admin/page-settings.php:97
+msgid "Roboto"
+msgstr ""
+
+#: includes/autoload/Assets/Material_Design_Icons.php:30
+msgid "Material Icons"
+msgstr ""
+
+#: includes/autoload/Assets/Roboto.php:22
+#: includes/autoload/Widgets/Widget_Tabs.php:71
+#: includes/autoload/Widgets/Widget_Tabs.php:356
+msgid "Disabled"
+msgstr ""
+
+#: includes/autoload/Assets/Roboto.php:23
+msgid "Local"
+msgstr ""
+
+#: includes/autoload/Assets/Roboto.php:24
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/autoload/Plugin.php:143
+#: includes/autoload/Plugin.php:180
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/autoload/Plugin.php:144
+msgid "Elementor Test Extension"
+msgstr ""
+
+#: includes/autoload/Plugin.php:145
+msgid "PHP"
+msgstr ""
+
+#: includes/autoload/Plugin.php:162
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: includes/autoload/Plugin.php:164
+#: includes/autoload/Plugin.php:182
+msgid "Elementor"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget.php:43
+#: includes/autoload/Widgets/Widget.php:72
+msgid "Shadow"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget.php:51
+#: includes/autoload/Widgets/Widget.php:80
+#: includes/autoload/Widgets/Widget_Tabs.php:57
+msgid "Default"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:33
+#: includes/autoload/Widgets/Widget_Button.php:96
+#: includes/autoload/Widgets/Widget_Button.php:288
+msgid "Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:59
+msgid "Flat"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:60
+msgid "Floating"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:61
+msgid "Raised"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:71
+#: includes/autoload/Widgets/Widget_Card.php:61
+#: includes/autoload/Widgets/Widget_Card.php:96
+msgid "Medium"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:72
+#: includes/autoload/Widgets/Widget_Card.php:62
+#: includes/autoload/Widgets/Widget_Card.php:97
+msgid "Large"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:104
+#: includes/autoload/Widgets/Widget_Card.php:320
+#: includes/autoload/Widgets/Widget_Collapsible.php:151
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:112
+#: includes/autoload/Widgets/Widget_Tabs.php:93
+msgid "Type"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:114
+#: includes/autoload/Widgets/Widget_Card.php:330
+#: includes/autoload/Widgets/Widget_Card.php:336
+#: includes/autoload/Widgets/Widget_Card.php:337
+#: includes/autoload/Widgets/Widget_Chip.php:70
+msgid "Text"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:119
+#: includes/autoload/Widgets/Widget_Button.php:120
+msgid "Click here"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:139
+#: includes/autoload/Widgets/Widget_Card.php:72
+#: includes/autoload/Widgets/Widget_Card.php:170
+#: includes/autoload/Widgets/Widget_Card.php:293
+#: includes/autoload/Widgets/Widget_Card.php:344
+#: includes/autoload/Widgets/Widget_Card.php:517
+#: includes/autoload/Widgets/Widget_Chip.php:83
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:173
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:227
+#: includes/autoload/Widgets/Widget_Heading.php:105
+#: includes/autoload/Widgets/Widget_Tabs.php:98
+#: includes/autoload/Widgets/Widget_Tabs.php:132
+msgid "Link"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:144
+#: includes/autoload/Widgets/Widget_Card.php:175
+#: includes/autoload/Widgets/Widget_Card.php:298
+#: includes/autoload/Widgets/Widget_Card.php:349
+#: includes/autoload/Widgets/Widget_Card.php:522
+#: includes/autoload/Widgets/Widget_Chip.php:88
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:178
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:232
+#: includes/autoload/Widgets/Widget_Heading.php:110
+#: includes/autoload/Widgets/Widget_Tabs.php:137
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:154
+msgid "Use Icon"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:166
+#: includes/autoload/Widgets/Widget_Card.php:359
+#: includes/autoload/Widgets/Widget_Card.php:505
+#: includes/autoload/Widgets/Widget_Card.php:577
+#: includes/autoload/Widgets/Widget_Collapsible.php:101
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:140
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:193
+msgid "Icon"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:193
+#: includes/autoload/Widgets/Widget_Card.php:373
+msgid "Icon Position"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:197
+#: includes/autoload/Widgets/Widget_Card.php:377
+msgid "Before"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:198
+#: includes/autoload/Widgets/Widget_Card.php:378
+msgid "After"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:210
+#: includes/autoload/Widgets/Widget_Button.php:241
+#: includes/autoload/Widgets/Widget_Card.php:221
+#: includes/autoload/Widgets/Widget_Chip.php:128
+#: includes/autoload/Widgets/Widget_Heading.php:129
+#: includes/autoload/Widgets/Widget_Progress.php:108
+#: includes/autoload/Widgets/Widget_Spinner.php:97
+msgid "Alignment"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:215
+#: includes/autoload/Widgets/Widget_Button.php:246
+#: includes/autoload/Widgets/Widget_Card.php:85
+#: includes/autoload/Widgets/Widget_Card.php:226
+#: includes/autoload/Widgets/Widget_Chip.php:133
+#: includes/autoload/Widgets/Widget_Heading.php:134
+#: includes/autoload/Widgets/Widget_Progress.php:113
+#: includes/autoload/Widgets/Widget_Spinner.php:102
+msgid "Left"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:219
+#: includes/autoload/Widgets/Widget_Button.php:250
+#: includes/autoload/Widgets/Widget_Card.php:230
+#: includes/autoload/Widgets/Widget_Chip.php:137
+#: includes/autoload/Widgets/Widget_Heading.php:138
+#: includes/autoload/Widgets/Widget_Progress.php:117
+#: includes/autoload/Widgets/Widget_Spinner.php:106
+msgid "Center"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:223
+#: includes/autoload/Widgets/Widget_Button.php:254
+#: includes/autoload/Widgets/Widget_Card.php:86
+#: includes/autoload/Widgets/Widget_Card.php:234
+#: includes/autoload/Widgets/Widget_Chip.php:141
+#: includes/autoload/Widgets/Widget_Heading.php:142
+#: includes/autoload/Widgets/Widget_Progress.php:121
+#: includes/autoload/Widgets/Widget_Spinner.php:110
+msgid "Right"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:227
+msgid "Justified"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:268
+msgid "Button ID"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:274
+#: includes/autoload/Widgets/Widget_Chip.php:158
+#: includes/autoload/Widgets/Widget_Progress.php:229
+#: includes/autoload/Widgets/Widget_Spinner.php:159
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:276
+#: includes/autoload/Widgets/Widget_Chip.php:160
+#: includes/autoload/Widgets/Widget_Progress.php:231
+#: includes/autoload/Widgets/Widget_Spinner.php:161
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows <code>A-z 0-9</code> & underscore chars without spaces."
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:296
+#: includes/autoload/Widgets/Widget_Card.php:137
+#: includes/autoload/Widgets/Widget_Card.php:887
+#: includes/autoload/Widgets/Widget_Spinner.php:77
+msgid "Size"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:318
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:301
+msgid "Pulse Effect"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:330
+#: includes/autoload/Widgets/Widget_Card.php:785
+#: includes/autoload/Widgets/Widget_Card.php:897
+#: includes/autoload/Widgets/Widget_Chip.php:180
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:322
+#: includes/autoload/Widgets/Widget_Tabs.php:241
+msgid "Waves Effect"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:339
+#: includes/autoload/Widgets/Widget_Card.php:798
+#: includes/autoload/Widgets/Widget_Card.php:906
+#: includes/autoload/Widgets/Widget_Chip.php:189
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:334
+#: includes/autoload/Widgets/Widget_Tabs.php:250
+msgid "Waves Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:356
+#: includes/autoload/Widgets/Widget_Card.php:397
+#: includes/autoload/Widgets/Widget_Card.php:646
+#: includes/autoload/Widgets/Widget_Card.php:940
+#: includes/autoload/Widgets/Widget_Chip.php:206
+#: includes/autoload/Widgets/Widget_Tabs.php:69
+#: includes/autoload/Widgets/Widget_Tabs.php:267
+msgid "Normal"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:363
+#: includes/autoload/Widgets/Widget_Button.php:403
+#: includes/autoload/Widgets/Widget_Card.php:404
+#: includes/autoload/Widgets/Widget_Card.php:438
+#: includes/autoload/Widgets/Widget_Card.php:679
+#: includes/autoload/Widgets/Widget_Card.php:757
+#: includes/autoload/Widgets/Widget_Card.php:827
+#: includes/autoload/Widgets/Widget_Card.php:947
+#: includes/autoload/Widgets/Widget_Card.php:978
+#: includes/autoload/Widgets/Widget_Card.php:1019
+#: includes/autoload/Widgets/Widget_Chip.php:213
+#: includes/autoload/Widgets/Widget_Chip.php:244
+#: includes/autoload/Widgets/Widget_Collapsible.php:180
+#: includes/autoload/Widgets/Widget_Collapsible.php:211
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:205
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:279
+#: includes/autoload/Widgets/Widget_Progress.php:287
+#: includes/autoload/Widgets/Widget_Tabs.php:220
+msgid "Background Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:374
+#: includes/autoload/Widgets/Widget_Button.php:415
+#: includes/autoload/Widgets/Widget_Card.php:418
+#: includes/autoload/Widgets/Widget_Card.php:453
+#: includes/autoload/Widgets/Widget_Card.php:718
+#: includes/autoload/Widgets/Widget_Card.php:1052
+#: includes/autoload/Widgets/Widget_Chip.php:224
+#: includes/autoload/Widgets/Widget_Chip.php:255
+#: includes/autoload/Widgets/Widget_Collapsible.php:191
+#: includes/autoload/Widgets/Widget_Collapsible.php:222
+#: includes/autoload/Widgets/Widget_Heading.php:117
+#: includes/autoload/Widgets/Widget_Tabs.php:274
+#: includes/autoload/Widgets/Widget_Tabs.php:305
+#: includes/autoload/Widgets/Widget_Tabs.php:363
+#: includes/autoload/Widgets/Widget_Tabs.php:388
+msgid "Text Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Button.php:396
+#: includes/autoload/Widgets/Widget_Card.php:431
+#: includes/autoload/Widgets/Widget_Card.php:657
+#: includes/autoload/Widgets/Widget_Card.php:971
+#: includes/autoload/Widgets/Widget_Chip.php:237
+msgid "Hover"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:36
+#: includes/autoload/Widgets/Widget_Card.php:129
+#: includes/autoload/Widgets/Widget_Card.php:618
+#: includes/autoload/Widgets/Widget_Tabs.php:58
+msgid "Card"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:60
+msgid "Small"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:73
+msgid "Flat Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:74
+msgid "Raised Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:75
+msgid "Floating Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:147
+#: includes/autoload/Widgets/Widget_Card.php:153
+#: includes/autoload/Widgets/Widget_Card.php:279
+#: includes/autoload/Widgets/Widget_Card.php:545
+#: includes/autoload/Widgets/Widget_Card.php:552
+#: includes/autoload/Widgets/Widget_Collapsible.php:113
+#: includes/autoload/Widgets/Widget_Collapsible.php:119
+#: includes/autoload/Widgets/Widget_Collapsible.php:120
+#: includes/autoload/Widgets/Widget_Heading.php:60
+#: includes/autoload/Widgets/Widget_Heading.php:91
+#: includes/autoload/Widgets/Widget_Tabs.php:106
+#: includes/autoload/Widgets/Widget_Tabs.php:113
+#: includes/autoload/Widgets/Widget_Tabs.php:232
+msgid "Title"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:154
+msgid "Body Title"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:161
+#: includes/autoload/Widgets/Widget_Card.php:559
+#: includes/autoload/Widgets/Widget_Collapsible.php:127
+#: includes/autoload/Widgets/Widget_Tabs.php:97
+#: includes/autoload/Widgets/Widget_Tabs.php:120
+#: includes/autoload/Widgets/Widget_Tabs.php:379
+msgid "Content"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:182
+#: includes/autoload/Widgets/Widget_Card.php:248
+#: includes/autoload/Widgets/Widget_Card.php:745
+msgid "Image"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:191
+#: includes/autoload/Widgets/Widget_Card.php:483
+#: includes/autoload/Widgets/Widget_Card.php:876
+msgid "FAB"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:203
+#: includes/autoload/Widgets/Widget_Card.php:307
+#: includes/autoload/Widgets/Widget_Card.php:815
+msgid "Action"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:212
+#: includes/autoload/Widgets/Widget_Card.php:534
+#: includes/autoload/Widgets/Widget_Card.php:1008
+msgid "Reveal"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:259
+#: includes/autoload/Widgets/Widget_Chip.php:98
+msgid "Choose Image"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:286
+msgid "Image Title"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:469
+#: includes/autoload/Widgets/Widget_Collapsible.php:136
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:242
+#: includes/autoload/Widgets/Widget_Tabs.php:157
+msgid "Items"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:495
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:122
+msgid "Position"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:551
+msgid "Reveal Title"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:561
+msgid "Reveal Content"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:568
+msgid "Trigger on icon"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:592
+msgid "Trigger on image"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:604
+msgid "Trigger on FAB"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:626
+#: includes/autoload/Widgets/Widget_Progress.php:251
+msgid "Width"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:670
+#: includes/autoload/Widgets/Widget_Collapsible.php:202
+msgid "Body"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:690
+#: includes/autoload/Widgets/Widget_Card.php:771
+#: includes/autoload/Widgets/Widget_Card.php:1030
+msgid "Title Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:703
+msgid "Reveal Icon Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:729
+msgid "Min. Height"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:841
+msgid "Border Top Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:855
+msgid "Border Top Width"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:921
+msgid "Bottom Padding"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:958
+#: includes/autoload/Widgets/Widget_Card.php:990
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:216
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:290
+msgid "Icon Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Card.php:1041
+msgid "Close Icon Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Chip.php:35
+#: includes/autoload/Widgets/Widget_Chip.php:62
+#: includes/autoload/Widgets/Widget_Chip.php:75
+#: includes/autoload/Widgets/Widget_Chip.php:76
+#: includes/autoload/Widgets/Widget_Chip.php:172
+msgid "Chip"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Chip.php:118
+msgid "Deletable"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Chip.php:121
+#: includes/autoload/Widgets/Widget_Progress.php:173
+#: includes/autoload/Widgets/Widget_Progress.php:212
+#: includes/autoload/Widgets/Widget_Spinner.php:133
+msgid "It will not hide in edit mode"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Chip.php:152
+msgid "Chip ID"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:34
+#: includes/autoload/Widgets/Widget_Collapsible.php:82
+#: includes/autoload/Widgets/Widget_Collapsible.php:164
+msgid "Collapsible"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:56
+msgid "Accordion"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:57
+msgid "Expandable"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:58
+msgid "Popout"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:92
+#: includes/autoload/Widgets/Widget_Tabs.php:70
+#: includes/autoload/Widgets/Widget_Tabs.php:298
+msgid "Active"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:129
+#: includes/autoload/Widgets/Widget_Tabs.php:125
+#: includes/autoload/Widgets/Widget_Tabs.php:164
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:172
+msgid "Header"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:233
+msgid "Border Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Collapsible.php:247
+msgid "Border Width"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:34
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:104
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:263
+msgid "Fixed Action Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:58
+msgid "Single Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:59
+msgid "Vertical Menu"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:60
+msgid "Horizontal Menu"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:61
+msgid "Toolbar"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:71
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:72
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:132
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:271
+msgid "Main Button"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:152
+msgid "Show On Click"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Fixed_Action_Button.php:310
+msgid "Toolbar Item"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:32
+#: includes/autoload/Widgets/Widget_Heading.php:73
+#: includes/autoload/Widgets/Widget_Heading.php:97
+#: includes/autoload/Widgets/Widget_Heading.php:98
+msgid "Heading"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:55
+msgid "Display 4"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:56
+msgid "Display 3"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:57
+msgid "Display 2"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:58
+msgid "Display 1"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:59
+msgid "Headline"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:61
+msgid "Subhead"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Heading.php:81
+#: includes/autoload/Widgets/Widget_Tabs.php:201
+msgid "Style"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:31
+#: includes/autoload/Widgets/Widget_Progress.php:69
+#: includes/autoload/Widgets/Widget_Progress.php:243
+msgid "Progress"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:77
+#: includes/autoload/Widgets/Widget_Tabs.php:147
+msgid "State"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:87
+msgid "Percentage"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:132
+msgid "Incrementer"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:144
+#: includes/autoload/Widgets/Widget_Progress.php:196
+#: includes/autoload/Widgets/Widget_Spinner.php:130
+msgid "Enabled"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:156
+msgid "Duration (Seconds)"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:170
+msgid "Hide at 100%"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:184
+#: includes/autoload/Widgets/Widget_Spinner.php:121
+msgid "Timeout"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:208
+#: includes/autoload/Widgets/Widget_Spinner.php:140
+msgid "Milliseconds"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:223
+msgid "Progress ID"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:275
+msgid "Height"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Progress.php:298
+msgid "Bar Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Spinner.php:31
+#: includes/autoload/Widgets/Widget_Spinner.php:58
+msgid "Spinner"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Spinner.php:66
+msgid "Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Spinner.php:153
+msgid "Spinner ID"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:34
+#: includes/autoload/Widgets/Widget_Tabs.php:83
+#: includes/autoload/Widgets/Widget_Tabs.php:193
+msgid "Tabs"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:59
+msgid "Navbar"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:112
+msgid "Tab"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:163
+msgid "Tab #1"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:167
+msgid "Tab #2"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:168
+msgid "Ut eu vehicula dui, vitae luctus justo. Aenean mollis aliquet enim, eu rhoncus metus lacinia in."
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:171
+msgid "Tab #3"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:172
+msgid "Duis convallis, velit vel malesuada pretium, dui odio hendrerit urna, id condimentum urna nibh non ante."
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:181
+msgid "Equal Width Titles"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:285
+#: includes/autoload/Widgets/Widget_Tabs.php:316
+msgid "Hover Text Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:327
+msgid "Indicator Color"
+msgstr ""
+
+#: includes/autoload/Widgets/Widget_Tabs.php:338
+msgid "Indicator Height"
+msgstr ""

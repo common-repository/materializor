@@ -1,0 +1,1 @@
+(jQuery=>{"use strict";jQuery(()=>{setInterval(()=>{jQuery("i.material-icons[class*=\"mdi-\"]:not(.touched)").each(function(){const $this=jQuery(this),match=$this.attr("class").match(/mdi-(?<icon>[\w-]+)/);match&&$this.html(match.groups.icon.replace(/-/g,"_")),$this.addClass("touched")})},300)})})(jQuery);
